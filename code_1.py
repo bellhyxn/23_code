@@ -6,4 +6,3 @@ while counter <= 10:
     counter = counter + 1;
 average = total / 10;
 print("평균은 ",average, "입니다.")
-    
